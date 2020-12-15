@@ -16,6 +16,8 @@ public class EjercicioGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+            System.out.println("Línea de visualización 1");
+            System.out.println("Línea de visualización 2");
     }
     
 }
